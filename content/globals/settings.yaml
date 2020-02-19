@@ -1,0 +1,15 @@
+id: 9242876a-41c4-42f8-96f8-ac92d6025406
+title: Settings
+blueprint: global_settings
+data:
+  site_name: 'Nerd North Inc'
+  links:
+    -
+      name: Home
+      url: /
+    -
+      name: Twitter
+      url: 'https://twitter.com/mijustin'
+    -
+      name: Blog
+      url: 'https://justinjackson.ca/articles'
